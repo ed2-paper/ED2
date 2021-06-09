@@ -1,0 +1,16 @@
+mujoco_py==1.50.1.1
+sklearn
+gym[all]
+
+matplotlib
+numpy
+tensorflow-probability
+tensorflow >= 2.4
+
+psutil
+
+# dev tools
+isort>=4.2.5,<5
+pylint==2.4.4
+pylint_quotes
+pylint_import_modules
